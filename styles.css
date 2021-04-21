@@ -32,3 +32,15 @@ li a:hover {
 .active {
  background-color: #a09f9f;
 }
+
+h1 {
+  font: inherit;
+  font-size: 40px;
+  color: #577489;
+}
+
+h2{
+  font: inherit;
+  font-size: 22px;
+  color: #666666;
+}
